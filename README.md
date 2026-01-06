@@ -34,7 +34,3 @@ titanic-survival-eda/
 Dataset: [Kaggle Titanic](https://www.kaggle.com/competitions/titanic/data)
 
 ---
-
-👉 This one is short, professional, and GitHub-friendly.
-
-Do you want me to also make a **one-liner GitHub repo tagline** (for the small description field under the repo name)?
